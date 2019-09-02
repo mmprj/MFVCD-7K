@@ -8,14 +8,14 @@ We would like to acknowledge MovieLens here for providing a stable benchmark dat
 
 For further information, please see our paper at MMSys 2018 here. For acknowledgments please use one or both of the following works:
 
-<textarea rows="9" cols="75"> 
+<textarea rows="8" cols="75"> 
 @inproceedings{deldjoo2019retrieving,
   title={Retrieving Relevant and Diverse Movie Clips Using the MFVCD-7K Multifaceted Video Clip Dataset},
   author={Deldjoo, Yashar and Schedl, Markus}
   booktitle={Proceedings of the 17th International Workshop on Content-Based Multimedia Indexing},
   year={2019}}
 </textarea>
-<textarea rows="9" cols="75"> 
+<textarea rows="8" cols="75"> 
 @inproceedings{deldjoomediaeval, 
 title={The MediaEval 2018 Movie Recommendation Task: Recommending Movies Using Content},
 author={Deldjoo, Yashar and Constantin, Mihai Gabriel and Dritsas, Athanasios and Ionescu, Bogdan and Schedl, Markus}
