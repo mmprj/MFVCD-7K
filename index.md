@@ -14,11 +14,12 @@ For further information, please see our paper at MMSys 2018 here. For acknowledg
   author={Deldjoo, Yashar and Schedl, Markus}
   booktitle={Proceedings of the 17th International Workshop on Content-Based Multimedia Indexing},
   year={2019}}
-
+</textarea>
+<textarea rows="9" cols="75"> 
 @inproceedings{deldjoomediaeval, 
 title={The MediaEval 2018 Movie Recommendation Task: Recommending Movies Using Content},
 author={Deldjoo, Yashar and Constantin, Mihai Gabriel and Dritsas, Athanasios and Ionescu, Bogdan and Schedl, Markus}
 booktitle = {MediaEval},
 year={2018}
-</textarea> <textarea rows="9" cols="75"> 
+</textarea> 
 For further inquiries, feel free to contact Yashar Deldjoo through his email: deldjooy@acm.org .
