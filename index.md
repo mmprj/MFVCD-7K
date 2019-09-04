@@ -9,7 +9,7 @@ The MVCD-7K dataset has been created as a joint research work by Yashar Deldjoo 
 
 <p><a href="https://drive.google.com/drive/folders/1M3QaqNKpKND_POyj-OwQFT2bkc5oJfkY?usp=sharing">Download the dataset</a></p>
 
-This a temporary Download Link to the folder. This website is currently under designa and will be finalized on Sep 10th, 2019. 
+This a temporary download link to the folder. This website is currently under design and will be finalized on Sep 10th, 2019. 
 
 We would like to acknowledge MovieLens here for providing a stable benchmark dataset of movies containing individual user ratings and metadata which is an enabler for doing research on movie recommendation. Please consider the MovieLens-20M web page for more details on the ratings and tags datasets.
 
